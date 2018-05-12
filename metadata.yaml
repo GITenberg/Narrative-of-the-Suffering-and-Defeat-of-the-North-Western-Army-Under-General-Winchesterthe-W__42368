@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41645'
     url: http://www.gutenberg.org/2009/agents/41645
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42368#Narrative-of-the-Suffering-and-Defeat-of-the-North-Western-Army-Under-General-Winchesterthe-W_
 gutenberg_issued: '2013-03-19'
 gutenberg_type: Text
 identifiers:
